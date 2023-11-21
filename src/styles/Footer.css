@@ -1,0 +1,22 @@
+.container{
+    height: 100px;
+    width: 100%;
+    background-color: darkblue;
+    display: flex;
+    
+}
+
+
+
+.icon  {
+  color: white;
+  font-size: 2em;
+  cursor: pointer;
+  margin:10px
+
+    
+}
+
+
+
+
